@@ -15,6 +15,6 @@ The case study in this repository documents the process of developing the ethica
 - Lessons learned and future plans for the use of the guide  
 
 ## Resources
-- The guide for the responsible design and implementation of AI systems in the public sector can be found [here](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)  
-- For more information about the ethics based work of The Alan Turing Institute, [visit their website](https://www.turing.ac.uk/research/research-areas/social-data-science/ethics)  
-- For wider information on how to use artificial intelligence in the public sector, check [the GOV.UK website](https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector)
+- [Guide for the responsible design and implementation of AI systems in the public sector](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)  
+- [Further information about Data Science Ethics at The Alan Turing Institute](https://www.turing.ac.uk/research/research-areas/social-data-science/ethics)  
+- [Wider information on how to use artificial intelligence in the public sector from GOV.UK](https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector)
