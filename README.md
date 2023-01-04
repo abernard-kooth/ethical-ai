@@ -12,6 +12,7 @@ The guide covers a range of ethical considerations, including:
 - **Non-maleficence**: minimizing the potential harm caused by AI systems  
 - **Privacy**: protecting personal data and respecting privacy rights  
 - **Security**: protecting against unauthorized access or misuse of AI systems  
+
 The guide also provides practical recommendations for addressing these considerations, such as conducting impact assessments, engaging with stakeholders, and implementing effective governance frameworks.  
 
 ## Case Study
