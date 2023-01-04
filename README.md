@@ -4,7 +4,15 @@ This repository contains a case study utilising a guide for the responsible desi
 ## Background
 The Alan Turing Institute is a national research institute for data science and artificial intelligence. As the field of AI and data science continues to grow and impact society in new ways, it is important for researchers and practitioners to consider the ethical implications of their work.  
 
-To address this need, the Institute developed a document to provide guidance on ethical considerations for AI and data science innovation. The guide covers a range of topics, including fairness, transparency, accountability, and more.  
+To address this need, the Institute developed a document to provide guidance on ethical considerations for AI and data science innovation.
+The guide covers a range of ethical considerations, including:
+- **Fairness**: ensuring that AI systems do not perpetuate or exacerbate existing biases  
+- **Transparency**: providing clear and accessible information about how AI systems work and make decisions  
+- **Accountability**: establishing clear lines of responsibility and decision-making authority for AI systems  
+- **Non-maleficence**: minimizing the potential harm caused by AI systems  
+- **Privacy**: protecting personal data and respecting privacy rights  
+- **Security**: protecting against unauthorized access or misuse of AI systems  
+The guide also provides practical recommendations for addressing these considerations, such as conducting impact assessments, engaging with stakeholders, and implementing effective governance frameworks.  
 
 ## Case Study
 The case study in this repository documents the use of the ethical and responsible innovation guide at the Institute in the context of a data science project. It covers the following topics:
