@@ -7,11 +7,10 @@ The Alan Turing Institute is a national research institute for data science and 
 To address this need, the Institute developed a document to provide guidance on ethical considerations for AI and data science innovation. The guide covers a range of topics, including fairness, transparency, accountability, and more.  
 
 ## Case Study
-The case study in this repository documents the process of developing the ethical and responsible innovation guide at the Institute. It covers the following topics:
-- Who this guide is for and why
-- The context in which the guide was used  
+The case study in this repository documents the use of the ethical and responsible innovation guide at the Institute in the context of a data science project. It covers the following topics:
+- The context and background of the project 
 - The process of using the guide, including any challenges or successes encountered  
-- The impact of using the guide on research and practices  
+- The impact of using the guide on the project
 - Lessons learned and future plans for the use of the guide  
 
 ## Resources
