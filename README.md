@@ -17,8 +17,9 @@ The guide also provides practical recommendations for addressing these considera
 
 ## Case Study
 The case study in this repository documents the use of the ethical and responsible innovation guide at the Institute in the context of a data science project. It covers the following topics:
-- Context and background of the project
-- Process of using the guide, including any challenges or successes encountered  
+- Context of the project
+- Guide overview for the responsible design and implementation of AI systems
+- Guide use, including any challenges or successes encountered  
 - Lessons learned and future plans for the use of the guide  
 
 ## Resources
