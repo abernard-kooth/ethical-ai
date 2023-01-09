@@ -114,10 +114,10 @@ Involves the interpretability and justifiability of the processes and outcomes o
     2. Having a clear and accessible PBG Framework
     3. Establishing a well-defined auditability trail in your PBG Framework through robust activity logging protocols that are consolidated digitally in a process log
 2. **Outcome Transparency**: Provide a clear, understandable explanation of how and why the AI system made a specific decision or behaved in a certain way, taking into account societal factors and relationships. This includes:
-    - formal or logical explanations 
-    - explanations of the technical rationale
-    - clarification of the socially meaningful content from outcomes
-    - moral justification
+    - Formal or logical explanations 
+    - Explanations of the technical rationale
+    - Clarification of the socially meaningful content from outcomes
+    - Moral justification
 
 Transparency also involves designing a sufficiently interpretable AI system:
 1. Look first to context, potential impact, and domain-specific need when determining the interpretability requirements of your project  
@@ -131,5 +131,19 @@ Transparency also involves designing a sufficiently interpretable AI system:
 ### Human-centred Implementation Protocols and Practices
 The demand for sensitivity to human factors should inform your approach to devising delivery and implementation processes from start to finish -  context will be critical in this. By understanding your use case well and by drawing upon solid domain knowledge, you will be better able to define roles and relationships. You will better be able to train the users and implementers of your system. And, you will be better able to establish an effectual implementation platform, to clarify content, and to facilitate understanding of outcomes for users and affected stakeholders alike. The steps are as follows:
 1. Consider aspects of application type and domain context to define roles and determine user needs 
+    - Assess which communities will be most affected by the AI system and prioritise the needs of the most disadvantaged when thinking about providing explanations
+    - Define all the roles that will potentially be involved at the delivery stage of your AI project
 2. Define delivery relations and map delivery processes
+    - Assess the possible relationships between the defined roles that will have significant bearing on your project’s implementation
+    - Build a map of the delivery process, accounting for the needs, roles, and relationships of relevant actors with the principle goal to translate statistically expressed results into humanly significant reasons and to translate algorithmic outputs into socially meaningful outcomes
 3. Build an ethical implementation platform
+    - Train ethical implementation so that implementers can:
+        - Rationally evaluate and critically assess the logic and rationale behind the outputs of the AI systems
+        - Convey and communicate their algorithmically assisted decisions to the individuals affected by them in plain language
+        - Apply the conclusions reached by the AI model to a more focused consideration of the particular social circumstances and life context of the decision subject and other affected parties
+        - Treat the inferences drawn from the results of the model’s computation as evidentiary contributions to a broader, more rounded, and coherent understanding of the individual situations of the decision subject and other affected parties
+        - Weigh the interpretive understanding gained by integrating the model’s insights into this rounded picture of the life context of the decision subject against the greater purpose and societal objective of the algorithmically assisted assessment
+        - ustify the ethical permissibility, the discriminatory non-harm, and the public trustworthiness both of the AI system’s outcome and of the processes behind its design and use 
+    - Make your implementation platform a relevant part and capstone of the sustainability track of your project
+    - Provide a model sheet to implementers and establish protocols for implementation reporting
+    - Foster outcome understanding through dialogue
