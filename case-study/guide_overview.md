@@ -110,9 +110,9 @@ Safety risks in an AI project depend on various factors such as the algorithm an
 #### Transparency
 Involves the interpretability and justifiability of the processes and outcomes of an AI system, including the clarification and intelligibility of its decision-making and the demonstration of its ethical permissibility, fairness, and trustworthiness. The three critical tasks for designing and implementing transparent AI are:
 1. **Process Transparency**: Demonstrate that ethical permissibility, non-discrimination/fairness, and safety/public trustworthiness were considered throughout the design and implementation of the AI system. This includes creation of the **PBG Framework**.
-    1. Maintaining strong regimes of professional and institutional transparency
-    2. Having a clear and accessible PBG Framework
-    3. Establishing a well-defined auditability trail in your PBG Framework through robust activity logging protocols that are consolidated digitally in a process log
+    - Maintaining strong regimes of professional and institutional transparency
+    - Having a clear and accessible PBG Framework
+    - Establishing a well-defined auditability trail in your PBG Framework through robust activity logging protocols that are consolidated digitally in a process log
 2. **Outcome Transparency**: Provide a clear, understandable explanation of how and why the AI system made a specific decision or behaved in a certain way, taking into account societal factors and relationships. This includes:
     - Formal or logical explanations 
     - Explanations of the technical rationale
