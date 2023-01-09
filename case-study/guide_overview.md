@@ -1,5 +1,5 @@
-# Responsible Innovation and Ethical AI Process
-The following points are from the [The Alan Turing Institute's ethical AI and responsible innovation guide](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf).   
+# Overview: Responsible Design and Implementation of AI
+The following points are from the [The Alan Turing Institute's guide for responsible design and implementation of AI systems](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf).   
 
 AI ethics is a set of values, principles, and techniques that employ widely accepted standards of right and wrong to guide moral conduct in the development and use of AI technologies.   
 
@@ -23,6 +23,7 @@ We call this governance architecture an **ethical platform**. It will take three
 1. **Reflect using the SUM Values** (Respect, Connect, Care, Protect) to provide a framework for ethical values and evaluate the ethical permissibility of the project
 2. **Act using the FAST Track Principles** (Fairness, Accountability, Sustainability, Transparency) to ensure the project is bias-mitigating, non-discriminatory, responsible, trustworthy and fair
 3. **Justify using the PBG Framework** (Pocess-Based Governance) to operationalize the SUM Values and FAST Track Principles, ensuring end-to-end transparency and accountability
+All building blocks should be considered through human-centred implementation protocols and practices.
 
 All definitions will be described within the context of the following AI project lifecycle:  
 **Problem Formulation > Data Extraction and Aquisition > Data Preprocessing > Modelling, Testing and Validation > Deploy, Monitor and Reassess**   
@@ -86,11 +87,13 @@ Conduct a **Stakeholder Impact Assessment** (SIA) which should be considered at 
     - Does the project aim to advance the interests and well-being of as many affected individuals as possible? Might any disparate socioeconomic impacts result from its deployment?
     - Have you sufficiently considered the wider impacts of the system on future generations and on the planet as a whole?  
 
-A technically sustainable AI system is safe, accurate, reliable, secure, and robust. In order to safeguard that your AI system functions safely, you must prioritise the technical objectives of accuracy, reliability, security, and robustness. This requires that your technical team put careful forethought into how to construct a system that accurately and dependably operates in accordance with its designers’ expectations even when confronted with unexpected changes, anomalies, and perturbations. Building an AI system that meets these safety goals also requires rigorous testing, validation, and re-assessment as well as the integration of adequate mechanisms of oversight and control into its real-world operation.
+A technically sustainable AI system focuses on improving:
 - **Accuracy and Performance Metrics**: confidence depends on problems inherent in modeling a chaotic and changing reality, including noise in data, missing features, and changes in input data over time
 - **Reliability**: measure of consistency, ensuring that system behaves as intended and adheres to specifications
 - **Security**: protection of system from unauthorized modification or damage, ensuring that it remains functional and accessible to authorized users and keeps confidential information secure
-- **Robustness**: ability of system to function reliably and accurately under harsh conditions, including adversarial attacks, perturbations, and undesirable reinforcement learning behavior  
+- **Robustness**: ability of system to function reliably and accurately under harsh conditions, including adversarial attacks, perturbations, and undesirable reinforcement learning behavior    
+
+This requires careful forethought into how to construct a system that accurately and dependably operates in accordance with its designers’ expectations even when confronted with unexpected changes, anomalies, and perturbations. Building an AI system that meets these safety goals also requires rigorous testing, validation, and re-assessment as well as the integration of adequate mechanisms of oversight and control into its real-world operation.
 
 Risks relating to accuracy and reliability:  
 - **Concept Drift**: model accuracy and reliability can be compromised by changes in the underlying data distribution that the model was trained on
@@ -105,7 +108,28 @@ Risks relating to security and robustness:
 Safety risks in an AI project depend on various factors such as the algorithm and machine learning techniques being used, the type of application in which they are being deployed, the provenance of the data, the objective specification, and the problem domain. It is best practice to consider safety at every stage of the AI project lifecycle, including testing, validating, verifying, and monitoring the safety of the system and performing AI safety self-assessments. These self-assessments should evaluate the team's design and implementation practices in relation to the safety objectives of accuracy, reliability, security, and robustness. They should be logged and subject to review and re-assessment.
 
 #### Transparency
-TBC
+Involves the interpretability and justifiability of the processes and outcomes of an AI system, including the clarification and intelligibility of its decision-making and the demonstration of its ethical permissibility, fairness, and trustworthiness. The three critical tasks for designing and implementing transparent AI are:
+1. **Process Transparency**: Demonstrate that ethical permissibility, non-discrimination/fairness, and safety/public trustworthiness were considered throughout the design and implementation of the AI system. This includes creation of the **PBG Framework**.
+    1. Maintaining strong regimes of professional and institutional transparency
+    2. Having a clear and accessible PBG Framework
+    3. Establishing a well-defined auditability trail in your PBG Framework through robust activity logging protocols that are consolidated digitally in a process log
+2. **Outcome Transparency**: Provide a clear, understandable explanation of how and why the AI system made a specific decision or behaved in a certain way, taking into account societal factors and relationships. This includes:
+    - formal or logical explanations 
+    - explanations of the technical rationale
+    - clarification of the socially meaningful content from outcomes
+    - moral justification
 
-The principles of accountability and transparency are end-to-end governing principles. Fairness and sustainability are qualities of algorithmic systems for which their designers and implementers are held accountable through the transparency both of the outcomes of their practices and of the practices themselves. These four principles are therefore all deeply interrelated, but they are not
-equal. Fairness, accountability and transparency are also a legal requirement under [GDPR (General Data Protection Regulation)](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/).
+Transparency also involves designing a sufficiently interpretable AI system:
+    1. Look first to context, potential impact, and domain-specific need when determining the interpretability requirements of your project
+    2. Draw on standard interpretable techniques when possible
+    3. When considering the use of ‘black box’ AI systems, you should:
+        - Thoroughly weigh up impacts and risks
+        - Consider the options available for supplemental interpretability tools that will ensure a level of semantic explanation which is both domain appropriate and consistent with the design and implementation of safe, fair, and ethical AI (internal, post-hoc explanation, counterfactual explanation and supplimental infrastructure)
+        - Formulate an interpretability action plan that includes a clear articulation of explanatory strategies, a succint formulation of an explanation delivery strategy, a detailed timeframe evaluation
+    4.  Think about interpretability in terms of the capacities of human understanding 
+
+### Human-centred Implementation Protocols and Practices
+The demand for sensitivity to human factors should inform your approach to devising delivery and implementation processes from start to finish -  context will be critical. By understanding your use case well and by drawing upon solid domain knowledge, you will be better able to define roles and relationships. You will better be able to train the users and implementers of your system. And, you will be better able to establish an effectual implementation platform, to clarify content, and to facilitate understanding of outcomes for users and affected stakeholders alike. The steps are as follows:
+1. Consider aspects of application type and domain context to define roles and determine user needs 
+2. Define delivery relations and map delivery processes
+3. Build an ethical implementation platform
