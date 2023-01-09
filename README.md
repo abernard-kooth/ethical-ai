@@ -19,7 +19,7 @@ The guide also provides practical recommendations for addressing these considera
 The case study in this repository documents the use of the ethical and responsible innovation guide at the Institute in the context of a data science project. It covers the following topics:
 - [context.ipynb](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/context.ipynb): context of the project
 - [guide_overview.md](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/guide_overview.md): guide overview for the responsible design and implementation of AI systems
-- [guide_use](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/guide_use.ipynb): guide use, including any challenges or successes encountered  
+- [guide_use.ipynb](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/guide_use.ipynb): guide use, including any challenges or successes encountered  
 - [lessons.md](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/lessons.md): lessons learned and future plans for the use of the guide  
 
 ## Resources
