@@ -120,16 +120,16 @@ Involves the interpretability and justifiability of the processes and outcomes o
     - moral justification
 
 Transparency also involves designing a sufficiently interpretable AI system:
-    1. Look first to context, potential impact, and domain-specific need when determining the interpretability requirements of your project
-    2. Draw on standard interpretable techniques when possible
-    3. When considering the use of ‘black box’ AI systems, you should:
-        - Thoroughly weigh up impacts and risks
-        - Consider the options available for supplemental interpretability tools that will ensure a level of semantic explanation which is both domain appropriate and consistent with the design and implementation of safe, fair, and ethical AI (internal, post-hoc explanation, counterfactual explanation and supplimental infrastructure)
-        - Formulate an interpretability action plan that includes a clear articulation of explanatory strategies, a succint formulation of an explanation delivery strategy, a detailed timeframe evaluation
-    4.  Think about interpretability in terms of the capacities of human understanding 
+1. Look first to context, potential impact, and domain-specific need when determining the interpretability requirements of your project  
+2. Draw on standard interpretable techniques when possible  
+3. When considering the use of ‘black box’ AI systems, you should:  
+    - Thoroughly weigh up impacts and risks  
+    - Consider the options available for supplemental interpretability tools that will ensure a level of semantic explanation which is both domain appropriate and consistent with the design and implementation of safe, fair, and ethical AI (internal, post-hoc explanation, counterfactual explanation and supplimental infrastructure)  
+    - Formulate an interpretability action plan that includes a clear articulation of explanatory strategies, a succint formulation of an explanation delivery strategy, a detailed timeframe evaluation  
+4.  Think about interpretability in terms of the capacities of human understanding   
 
 ### Human-centred Implementation Protocols and Practices
-The demand for sensitivity to human factors should inform your approach to devising delivery and implementation processes from start to finish -  context will be critical. By understanding your use case well and by drawing upon solid domain knowledge, you will be better able to define roles and relationships. You will better be able to train the users and implementers of your system. And, you will be better able to establish an effectual implementation platform, to clarify content, and to facilitate understanding of outcomes for users and affected stakeholders alike. The steps are as follows:
+The demand for sensitivity to human factors should inform your approach to devising delivery and implementation processes from start to finish -  context will be critical in this. By understanding your use case well and by drawing upon solid domain knowledge, you will be better able to define roles and relationships. You will better be able to train the users and implementers of your system. And, you will be better able to establish an effectual implementation platform, to clarify content, and to facilitate understanding of outcomes for users and affected stakeholders alike. The steps are as follows:
 1. Consider aspects of application type and domain context to define roles and determine user needs 
 2. Define delivery relations and map delivery processes
 3. Build an ethical implementation platform
