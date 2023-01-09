@@ -20,7 +20,7 @@ The case study in this repository documents the use of the ethical and responsib
 - [context.ipynb](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/context.ipynb): context of the project
 - [guide_overview.md](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/guide_overview.md): guide overview for the responsible design and implementation of AI systems
 - [guide_use](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/guide_use.ipynb): guide use, including any challenges or successes encountered  
-- [lessons.md](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/lessons.md): Lessons learned and future plans for the use of the guide  
+- [lessons.md](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/lessons.md): lessons learned and future plans for the use of the guide  
 
 ## Resources
 - [Introduction to AI ethics and requirements overview for the responsible delivery of an AI project](https://www.gov.uk/guidance/understanding-artificial-intelligence-ethics-and-safety)  
