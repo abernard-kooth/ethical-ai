@@ -17,13 +17,16 @@ The guide also provides practical recommendations for addressing these considera
 
 ## Case Study
 The case study in this repository documents the use of the ethical and responsible innovation guide at the Institute in the context of a data science project. It covers the following topics:
-- Context of the project
-- Guide overview for the responsible design and implementation of AI systems
-- Guide use, including any challenges or successes encountered  
-- Lessons learned and future plans for the use of the guide  
+- [context.ipynb](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/context.ipynb): context of the project
+- [guide_overview.md](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/guide_overview.md): guide overview for the responsible design and implementation of AI systems
+- [guide_use](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/guide_use.ipynb): guide use, including any challenges or successes encountered  
+- [lessons.md](https://github.com/aynsleybernard/ethical-ai/blob/main/case-study/lessons.md): Lessons learned and future plans for the use of the guide  
 
 ## Resources
 - [Introduction to AI ethics and requirements overview for the responsible delivery of an AI project](https://www.gov.uk/guidance/understanding-artificial-intelligence-ethics-and-safety)  
 - [Detailed guide for the responsible design and implementation of AI systems in the public sector](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)  
-- [Further information about data science ethics at The Alan Turing Institute](https://www.turing.ac.uk/research/research-areas/social-data-science/ethics)  
+- [Further information about data science ethics at The Alan Turing Institute](https://www.turing.ac.uk/research/research-areas/social-data-science/ethics)   
 - [Wider information on how to use artificial intelligence in the public sector from GOV.UK](https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector)
+
+## References
+- Janhavi Lande, Yashwant Kaurav, Cathy Yu, & Rohitash Chandra. (2022). Global COVID-19 Twitter dataset.
