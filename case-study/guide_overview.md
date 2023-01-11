@@ -26,7 +26,7 @@ We call this governance architecture an **ethical platform**. It will take three
 All building blocks should be considered through human-centred implementation protocols and practices.
 
 All definitions will be described within the context of the following AI project lifecycle:  
-**Problem Formulation > Data Extraction and Aquisition > Data Preprocessing > Modelling, Testing and Validation > Deploy, Monitor and Reassess**   
+**Problem Formulation > Data Extraction and Acquisition > Data Preprocessing > Modelling, Testing and Validation > Deploy, Monitor and Reassess**   
 
 ### Reflect: SUM Values
 These values should orient you in deliberating about the ethical permissibility of a prospective AI project. They should also provide you with a framework of concepts to consider
